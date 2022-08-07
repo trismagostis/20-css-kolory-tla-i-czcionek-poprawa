@@ -1,0 +1,39 @@
+h1 {
+    backgroung-color:#00ff00;
+    text-align: left;
+}
+body { 
+    background-color: #faebd6;
+}
+}
+#pierwszy{
+    background-color: #000000;
+    }
+#drugi{
+    background-color: rgba(0,0,0,0.75);
+}
+#trzeci{
+    background-color: rgba(0,0,0,0.50);
+}
+#czwarty{
+    background-color: rgba(0,0,0,0.25);
+}
+#dwa {
+    color:rgba(255,0,0,0.75);
+}
+#trzy {
+    color:rgba(255,0,0,0.50);
+}
+#cztery {
+    color:rgba(255,0,0,0.25);
+}
+#piec {
+    color:rgba(255,0,0,0.15);
+}
+#jeden{
+    color:#ff0000;
+}
+h3 {
+    
+    background-color: #0000ff;
+}
